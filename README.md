@@ -50,8 +50,8 @@ Object-Detection-YOLOv3/
 │── yolov3.weights
 │── coco.names
 │── yolo_detect.py
-│── input.jpg
-│── output.jpg
+│── download.py
+│── project.py
 │── README.md
 ```
 
